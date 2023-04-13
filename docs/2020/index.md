@@ -6,6 +6,16 @@
     As already announced on the official ICPM page, the conference and also the workshops will move towards a virtual experience. **All workshop days and deadlines are kept as announced.** We hope that this makes ICPM 2020 and the SA4PM’20 workshop more accessible and we will try to facilitate discussions even in the virtual workshop. Here the information published on the ICPM website: _Due to the exceptional circumstances of the COVID-19 outbreak, ICPM 2020 will be a fully virtual conference, with no travel involved. However, the entire program, including the co-located events, will be retained, and will not change. With the spirit of keeping the entire conference as interactive as possible, presentations will be given live using webinars. The presentations will also be broadcasted, and also available after the conference for off-line viewing. Attendees will be able to ask questions, which will be answered at the end of the each presentation. When multiple sessions run in parallel (e.g., workshops), the conference will feature parallel virtual rooms._
 
 
+<div style="background: url(cover.jpg) top left no-repeat; border-radius: 10px; width: 980px; height: 493px; padding: 15px; position: relative;">
+	<div style="color: white;">
+		<p style="font-size: 1.3em; margin: 0; text-align: right;">Stream Analytics for Process Mining</p>
+		<p style="font-size: 0.9em; margin: 0; text-align: right;">To be held in conjunction with ICPM 2020. October 5, 2020 - Online (was Padua, Italy)</p>
+	</div>
+	<div style="position: absolute; bottom: 15px; right: 15px; color: white; font-size: .6em;">
+		Woudloper, Public domain, via Wikimedia Commons
+	</div>
+	<img src="../media/logo-old.svg" style="position: absolute; bottom: 15px;" />
+</div>
 
 
 ## Scope
