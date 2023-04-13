@@ -1,5 +1,5 @@
 site_name: Streaming Management and Analytics for Process Mining
-docs_dir: '.'
+site_url: https://sma4pm.github.io
 
 nav:
   - Home: index.md
