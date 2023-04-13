@@ -1,4 +1,5 @@
 site_name: Streaming Management and Analytics for Process Mining
+docs_dir: '.'
 
 nav:
   - Home: index.md
