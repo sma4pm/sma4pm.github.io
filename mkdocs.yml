@@ -1,0 +1,38 @@
+site_name: Streaming Management and Analytics for Process Mining
+
+nav:
+  - Home: index.md
+  - SMA4PM 2023:
+    - General information: 2023/index.md
+  - Previous editions:
+    - Index of previous editions: previous.md
+    - SA4PM 2022:
+      - General information: 2022/index.md
+    - SA4PM 2021:
+      - General information: 2021/index.md
+      - Program: 2021/program.md
+      - Submission and deadlines: 2021/submissions.md
+    - SA4PM 2020:
+      - General information: 2020/index.md
+      - Program: 2020/program.md
+  - Papers: papers.md
+
+theme:
+  name: material
+  palette:
+    primary: white
+  features:
+    - navigation.tabs
+    - toc.integrate
+    - navigation.footer
+  icon:
+    logo: material/home
+
+extra_css:
+  - media/extra.css
+
+markdown_extensions:
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
