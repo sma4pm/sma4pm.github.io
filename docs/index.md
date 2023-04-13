@@ -13,6 +13,8 @@ Streaming Process Mining is an emerging area in process mining that spans data m
 
 The workshop is a satellite event of the IEEE Task Force on Process Mining.
 
+TEST
+
 <img src="media/tfpm.png" style="width: 150px" />
 
 The next edition of the [SMA4PM 2023](/2023) will take place in Rome, Italy together with [ICPM 2023](https://icpmconference.org/2023/).
