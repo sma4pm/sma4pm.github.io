@@ -110,7 +110,7 @@ The proceedings of the workshops will be published together with the other ICPM 
 * Ahmed Awad, University of Tartu, <ahmed.awad@ut.ee>
 
 
-### Program Committee
+### Program Committee (Tentative)
 
 * Agnes Koschmider, Kiel University, Germany
 * Boudewijn van Dongen, Eindhoven University of Technology, The Netherlands
