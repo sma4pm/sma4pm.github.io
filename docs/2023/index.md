@@ -118,5 +118,5 @@ The proceedings of the workshops will be published together with the other ICPM 
 * Francesco Folino, ICAR -CNR, Italy
 * Matthias Weidlich, Humboldt-Universität zu Berlin, Germany
 * Marco Comuzzi, UNIST, Korea
-* Toon Calders, University of Antwerp, Belgium
+* Massimiliano de Leoni, University of Padova, Italy
 * Xixi Lu, Utrecht University, The Netherlands
