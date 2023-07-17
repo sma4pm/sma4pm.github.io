@@ -112,12 +112,11 @@ The proceedings of the workshops will be published together with the other ICPM 
 
 ### Program Committee (Tentative)
 
-* Agnes Koschmider, Kiel University, Germany
+* Agnes Koschmider, Universität Bayreuth, Germany
 * Boudewijn van Dongen, Eindhoven University of Technology, The Netherlands
 * Eric Verbeek, Eindhoven University of Technology, The Netherlands
 * Francesco Folino, ICAR -CNR, Italy
-* Frederic Stahl, German Research Center for Artificial Intelligence (DFKI), Germany
-* Jochen De Weerdt, KU Leuven, Belgium
 * Matthias Weidlich, Humboldt-Universität zu Berlin, Germany
 * Marco Comuzzi, UNIST, Korea
 * Toon Calders, University of Antwerp, Belgium
+* Xixi Lu, Utrecht University, The Netherlands
