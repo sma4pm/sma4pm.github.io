@@ -1,9 +1,9 @@
-# Stream Management & Analytics for Process Mining - 2023
+# Stream Management & Analytics for Process Mining - 2024
 
 <div style="background: url(cover.jpg) top left no-repeat; border-radius: 10px; width: 980px; height: 493px; padding: 15px; position: relative;">
 	<div style="color: white;">
 		<p style="font-size: 1.3em; margin: 0; text-align: right;">Stream Management & Analytics for Process Mining</p>
-		<p style="font-size: 0.9em; margin: 0; text-align: right;">To be held in conjunction with ICPM 2023. October 23, 2023 - Rome, Italy</p>
+		<p style="font-size: 0.9em; margin: 0; text-align: right;">To be held in conjunction with ICPM 2024. October 14, 2024 - Copenhagen, Denmark</p>
 	</div>
 	<div style="position: absolute; bottom: 15px; right: 15px; color: white; font-size: .6em;">
 		Jebulon, CC0, via Wikimedia Commons
@@ -18,7 +18,7 @@ Streaming Process Mining is an emerging area in process mining that spans data m
 
 Recently, event streams are gaining attention in the process management and mining community not only for analytics but also for the management and orchestration of business processes. Examples are online event correlation as a preprocessing step for online process mining, using flexible rule-based event consumption and generation for enacting process instances, and decentralized process execution.
 
-After a very successful three runs on this workshop together with ICPM 2020-ICPM 2022, this workshop aims at further promoting the use and the development of new techniques to support the analysis of streaming- based processes. We aim at bringing together practitioners and researchers from different communities, e.g. Process Mining, Stream Data Mining, Case Management, Business Process Management, Database Systems and Information Systems who share an interest in online analysis and optimization of business processes and process-aware information systems with time, storage or complexity restrictions. The workshop aims at discussing the current state of ongoing research and sharing practical experiences, exchanging ideas and setting up future research directions.
+After a very successful three runs on this workshop together with ICPM 2020 - ICPM 2022, this workshop aims at further promoting the use and the development of new techniques to support the analysis of streaming- based processes. We aim at bringing together practitioners and researchers from different communities, e.g. Process Mining, Stream Data Mining, Case Management, Business Process Management, Database Systems and Information Systems who share an interest in online analysis and optimization of business processes and process-aware information systems with time, storage or complexity restrictions. The workshop aims at discussing the current state of ongoing research and sharing practical experiences, exchanging ideas and setting up future research directions
 
 The list of topics that are relevant to the SA4PM workshop includes, but is not limited to:
 
@@ -63,12 +63,12 @@ The workshop is a satellite event of the IEEE Task Force on Process Mining.
 
 ### Important dates
 
-* Workshop abstract submission deadline: August 22, 2023
-* Workshop paper submission deadline: August 22, 2023
-* Paper notification: September 12, 2023
-* Pre-Workshop Camera ready: October 3, 2023
-* Workshop day: October 23, 2023
-* Post-workshop Camera-Ready Papers: November 7, 2023
+* Workshop abstract submission deadline: August 8, 2024
+* Workshop paper submission deadline: August 15, 2024
+* Paper notification: September 2, 2024
+* Pre-Workshop Camera ready: September 30, 2024
+* Workshop day: October 14, 2024
+* Post-workshop Camera-Ready Papers: October 29, 2024
 
 _All deadlines correspond to anywhere on earth ('AoE' or 'UTC-12')._
 
@@ -82,7 +82,7 @@ Authors are requested to prepare submissions according to the format of the [Lec
 
 Submission to both tracks should clearly emphasize the discussion aspects relevant to the workshop. Members of an international and solid program committee will review submissions.
 
-Submitters are required to indicate if their data and software is publicly available and if so, where and if not, why not. Sharing both data and software is important for the development of the research area as a whole. We expect this low-impact demand will increase the visibility of our work and the availability of data and software to other researchers.
+Submitters are required to indicate if their data and implementation is publicly available and if so, where and if not, why not. Sharing both data and code is important for the development of the research area as a whole. We expect this low-impact demand will increase the visibility of our work and the availability of data and software to other researchers.
 
 
 
@@ -90,13 +90,13 @@ Submitters are required to indicate if their data and software is publicly avail
 
 ### Submission link
 
-Papers and abstracts should be submitted through the Easy Chair web site in PDF format: <https://easychair.org/my/conference?conf=icpm2023>.
+Papers and abstracts should be submitted through the Easy Chair web site in PDF format: <link to appear here>.
 
-By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. Registrations are managed by the ICPM 2023 registration system. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
+By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. Registrations are managed by the ICPM 2024 registration system. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
 ## Proceedings
 
-The proceedings of the workshops will be published together with the other ICPM workshops as conference proceedings by Springer-Verlag in its Lecture Notes in Business Information Systems (LNBIP) series.
+The proceedings of the main track will be published together with the other ICPM workshops as conference proceedings by Springer-Verlag in its Lecture Notes in Business Information Systems (LNBIP) series.
 
 ![](/media/lnbip.jpg)
 
@@ -105,12 +105,11 @@ The proceedings of the workshops will be published together with the other ICPM 
 ### Organizers
 
 * Marwan Hassani, Eindhoven University of Technology, <m.hassani@tue.nl>
-* Andrea Burattin, Technical University of Denmark, <andbur@dtu.dk>
 * Thomas Seidl, Ludwig-Maximilians-Universität München, <seidl@dbs.ifi.lmu.de>
-* Ahmed Awad, University of Tartu, <ahmed.awad@ut.ee>
+* Ahmed Awad, The British University in Dubai, <ahmed.awad@buid.ac.ae>
 
 
-### Program Committee
+### Program Committee (Tentative, to be confirmed)
 
 * Agnes Koschmider, Kiel University, Germany
 * Boudewijn van Dongen, Eindhoven University of Technology, The Netherlands
