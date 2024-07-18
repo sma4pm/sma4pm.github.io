@@ -90,7 +90,7 @@ Submitters are required to indicate if their data and implementation is publicly
 
 ### Submission link
 
-Papers and abstracts should be submitted through the Easy Chair web site in PDF format: <link to appear here>.
+Papers and abstracts should be submitted through the [EasyChair portal](https://easychair.org/my/conference?conf=icpm2024) in PDF format.
 
 By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. Registrations are managed by the ICPM 2024 registration system. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
