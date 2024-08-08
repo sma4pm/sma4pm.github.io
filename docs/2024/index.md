@@ -63,9 +63,9 @@ The workshop is a satellite event of the IEEE Task Force on Process Mining.
 
 ### Important dates
 
-* Workshop abstract submission deadline: August 8, 2024
-* Workshop paper submission deadline: August 15, 2024
-* Paper notification: September 2, 2024
+* Workshop abstract submission deadline: ~August 8, 2024~, August 15, 2024
+* Workshop paper submission deadline: ~August 15, 2024~, August 22, 2024
+* Paper notification: ~September 2, 2024~, September 9, 2024
 * Pre-Workshop Camera ready: September 30, 2024
 * Workshop day: October 14, 2024
 * Post-workshop Camera-Ready Papers: October 29, 2024
