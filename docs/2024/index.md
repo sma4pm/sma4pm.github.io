@@ -101,11 +101,10 @@ The proceedings of the main track will be published together with the other ICPM
 ![](/media/lnbip.jpg)
 
 ## Organization
-
 ### Program
+#### Date: October 14th 2024
+#### Location: Room 15, Building 116, DTU
 
-| October 14th 2024 - Room 15 - Building 116 - DTU|
-  ------------------------------------------------
 | Time  	| Title 										| Authors 									|
 |  ----         |---------------------------------------------------------------------------------------| ---------------------------------------------------------		|         
 | 09:00-09:15 	| Opening 										| Workshop Co-Chairs 								|
