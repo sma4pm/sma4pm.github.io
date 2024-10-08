@@ -111,6 +111,7 @@ Location: Room 15, Building 116, DTU (Date: October 14th 2024)
 | 09:45 - 10:15 | [Detect & Conquer: Template-Based Analysis of Processes using Complex Event Processing](../papers/2024-2.pdf) | Christian Imenkamp, Samira Akili, Matthias Weidlich and Agnes Koschmider 	|
 | 10:15 - 10:30 | Open discussions & Closing | All SMA4PM participants
 | 10:30 | Coffee Break|
+
 ### Organizers
 
 * Marwan Hassani, Eindhoven University of Technology, <m.hassani@tue.nl>
