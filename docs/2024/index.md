@@ -105,10 +105,10 @@ The proceedings of the main track will be published together with the other ICPM
 Location: Room 15, Building 116, DTU (Date: October 14th 2024)
 
 | Time  	| Title 										| Authors 									|
-|  ----         |---------------------------------------------------------------------------------------| ---------------------------------------------------------		|         
+|  -------         |---------------------------------------------------------------------------------------| ---------------------------------------------------------		|         
 | 09:00-09:15 	| Opening 										| Workshop Co-Chairs 								|
-| 09:15 - 09:45 | [Task-Free Continual Learning with Dynamic Loss for Online Next Activity Prediction](../papers/2024-1.pdf)	| Tamara Verbeek, Ruozhu Yao and Marwan Hassani 				|
-| 09:45 - 10:15 | [Detect & Conquer: Template-Based Analysis of Processes using Complex Event Processing](../papers/2024-2.pdf) | Christian Imenkamp, Samira Akili, Matthias Weidlich and Agnes Koschmider 	|
+| 09:15 - 09:45 | [Detect & Conquer: Template-Based Analysis of Processes using Complex Event Processing](../papers/2024-2.pdf) | Christian Imenkamp, Samira Akili, Matthias Weidlich and Agnes Koschmider 	|
+| 09:45 - 10:15 | [Task-Free Continual Learning with Dynamic Loss for Online Next Activity Prediction](../papers/2024-1.pdf)	| Tamara Verbeek, Ruozhu Yao and Marwan Hassani 				|
 | 10:15 - 10:30 | Open discussions & Closing | All SMA4PM participants
 | 10:30 | Coffee Break|
 
