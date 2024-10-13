@@ -119,13 +119,13 @@ Location: Room 15, Building 116, DTU (Date: October 14th 2024)
 * Ahmed Awad, The British University in Dubai, <ahmed.awad@buid.ac.ae>
 
 
-### Program Committee (Tentative, to be confirmed)
+### Program Committee
 
 * Agnes Koschmider, Kiel University, Germany
 * Boudewijn van Dongen, Eindhoven University of Technology, The Netherlands
 * Eric Verbeek, Eindhoven University of Technology, The Netherlands
 * Francesco Folino, ICAR -CNR, Italy
-* Frederic Stahl, German Research Center for Artificial Intelligence (DFKI), Germany
+* Massimiliano de Leoni, University of Padua, Italy
 * Jochen De Weerdt, KU Leuven, Belgium
 * Matthias Weidlich, Humboldt-Universität zu Berlin, Germany
 * Marco Comuzzi, UNIST, Korea
