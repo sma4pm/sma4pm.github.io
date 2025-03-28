@@ -21,7 +21,7 @@ The next edition of the [SMA4PM 2024](/2024) will take place in Copenhagen, Denm
 ## Previous editions
 
 {%
-   include-markdown "previous.md"
+   include-markdown "docs/previous.md"
    start="<!--previous-start-->"
    end="<!--previous-end-->"
 %}
