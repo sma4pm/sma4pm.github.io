@@ -1,5 +1,10 @@
 # All papers published in the workshop series
 
+## 2024
+* [Detect & Conquer: Template-Based Analysis of Processes using Complex Event Processing](../papers/2024-2.pdf) by Christian Imenkamp, Samira Akili, Matthias Weidlich and Agnes Koschmider
+* [Task-Free Continual Learning with Dynamic Loss for Online Next Activity Prediction](../papers/2024-2.pdf) by Tamara Verbeek, Ruozhu Yao and Marwan Hassani
+
+
 ## 2022
 
 * [Predicting Activities of Interest in the Remainder of Customer Journeys Under Online Settings](https://doi.org/10.1007/978-3-031-27815-0_11) by Lisan Wolters and Marwan Hassani
