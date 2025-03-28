@@ -28,6 +28,8 @@ jobs:
           pip install mkdocs-minify-plugin
           pip install mkdocs-redirects
           pip install pymdown-extensions
+          pip install mkdocs-include-markdown-plugin
+          pip install markdown-exec
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
