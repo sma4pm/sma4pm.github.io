@@ -1,25 +1,36 @@
-name: 'Deploy pages'
+name: Deploy MkDocs to GitHub Pages
+
 on:
   push:
     branches:
       - main
-permissions:
-  contents: write
+      
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.x
-      - uses: actions/cache@v2
-        with:
-          key: ${{ github.ref }}
-          path: .cache
-      - run: pip install mkdocs-material 
-      - run: pip install mkdocs-material-extensions
-      - run: pip install mkdocs-minify-plugin
-      - run: pip install mkdocs-redirects
-      - run: pip install pymdown-extensions
-      - run: mkdocs gh-deploy --force
+          python-version: '3.x'  # Specify the Python version to use
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs
+          pip install mkdocs-material
+          pip install mkdocs-mermaid2-plugin
+          pip install mkdocs-material 
+          pip install mkdocs-material-extensions
+          pip install mkdocs-minify-plugin
+          pip install mkdocs-redirects
+          pip install pymdown-extensions
+
+
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
