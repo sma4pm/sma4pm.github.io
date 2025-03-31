@@ -1,6 +1,6 @@
 # Stream Management & Analytics for Process Mining - 2025
 
-<div style="background: url(cover.jpg) top left no-repeat; border-radius: 10px; width: 980px; height: 493px; padding: 15px; position: relative;">
+<div style="background: url(cover.jpg) center center / cover no-repeat; border-radius: 10px; width: 980px; height: 493px; padding: 15px; position: relative;">
 	<div style="color: white;">
 		<p style="font-size: 1.3em; margin: 0; text-align: right;">5th International Workshop on Stream Management & Analytics for Process Mining (SMA4PM'25)</p>
 		<p style="font-size: 0.9em; margin: 0; text-align: right;">To be held in conjunction with ICPM 2025. October 20, 2025 - Montevideo, Uruguay</p>
