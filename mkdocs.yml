@@ -3,10 +3,12 @@ site_url: https://sma4pm.github.io
 
 nav:
   - Home: index.md
-  - SMA4PM 2024:
-    - General information: 2024/index.md
+  - SMA4PM 2025:
+    - General information: 2025/index.md
   - Previous editions:
     - Index of previous editions: previous.md
+     SA4PM 2024:
+      - General information: 2024/index.md
     - SA4PM 2022:
       - General information: 2022/index.md
     - SA4PM 2021:
