@@ -96,9 +96,9 @@ Submitters are required to indicate if their data and implementation is publicly
 
 ### Submission link
 
-Papers and abstracts should be submitted through easychair link (to be shared) in PDF format.
+Papers and abstracts should be submitted through [easychair link](https://easychair.org/my/conference?conf=icpm2025) in PDF format.
 
-By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. Registrations are managed by the ICPM 2025 registration system. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
+By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. Please visit the [main conference website](https://icpmconference.org/2025/) for more information. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
 ## Proceedings
 
