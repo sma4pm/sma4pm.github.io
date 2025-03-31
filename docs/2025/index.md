@@ -6,7 +6,7 @@
 		<p style="font-size: 0.9em; margin: 0; text-align: right;">To be held in conjunction with ICPM 2025. October 20, 2025 - Montevideo, Uruguay</p>
 	</div>
 	<div style="position: absolute; bottom: 15px; right: 15px; color: white; font-size: .6em;">
-		Jebulon, CC0, via Wikimedia Commons
+		ElOjoTorpe via gettyimages
 	</div>
 	<img src="../media/logo.svg" style="position: absolute; bottom: 15px;" />
 </div>
