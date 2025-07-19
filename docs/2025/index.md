@@ -69,8 +69,8 @@ The workshop is a satellite event of the IEEE Task Force on Process Mining.
 
 ### Important dates
 
-* Workshop abstract submission deadline: July 18, 2025
-* Workshop paper submission deadline: July 25, 2025
+* Workshop abstract submission deadline: ~~July 18, 2025~~ July 25, 2025
+* Workshop paper submission deadline: ~~July 25, 2025~~ August 1, 2025
 * Paper notification: August 22, 2025
 * Pre-Workshop Camera ready: September 22, 2025
 * Workshop day: October 20, 2025
@@ -82,9 +82,9 @@ _All deadlines correspond to anywhere on earth ('AoE' or 'UTC-12')._
 
 Authors are requested to prepare submissions according to the format of the [Lecture Notes in Business Information Processing (LNBIP) series by Springer](http://www.springer.com/computer/lncs?SGWID=0-164-6-791344-0). Submissions must be in English. This year, we welcome submissions to the following two tracks:
 
-1. **Main Track** with the number of pages should not exceed **12 pages** (including figures, bibliography and appendices). Submissions to this track should clearly establish the research contribution and the relation to previous research. Submitted papers to this track will be evaluated on the basis of significance, originality and technical quality. Accepted papers of this track will appear in ICPM workshop proceedings after addressing all audience and reviewers’ feedback.
+1. **Main Track** with the number of pages should not exceed **12 pages** (including figures, bibliography and appendices). Submissions to this track should clearly establish the research contribution and the relation to previous research. Submitted papers to this track will be evaluated on the basis of significance, originality and technical quality. Accepted papers of this track will appear in ICPM workshop proceedings after addressing all audience and reviewers' feedback.
 
-2. **Work-in-Progress Track** with the number of pages should not exceed **8 pages** (including figures, bibliography and appendices). The aim of this track is to encourage researchers to share and receive feedback on ideas and/or proof of concept results of their promising ongoing research. All submissions to this track will be quickly reviewed by organizers and will be presented in a pitch + poster session on the workshop day. They will be published on the workshop website after addressing all audience and reviewers’ feedback.
+2. **Work-in-Progress Track** with the number of pages should not exceed **8 pages** (including figures, bibliography and appendices). The aim of this track is to encourage researchers to share and receive feedback on ideas and/or proof of concept results of their promising ongoing research. All submissions to this track will be quickly reviewed by organizers and will be presented in a pitch + poster session on the workshop day. They will be published on the workshop website after addressing all audience and reviewers' feedback.
 
 Submission to both tracks should clearly emphasize the discussion aspects relevant to the workshop. Members of an international and solid program committee will review submissions.
 
