@@ -107,19 +107,25 @@ The proceedings of the main track will be published together with the other ICPM
 ![](/media/lnbip.jpg)
 
 ## Organization
-### Program
-<!--
-Location: Room 15, Building 116, DTU (Date: October 14th 2024)
+### Program (tentative)
 
-| Time  	| Title 										| Authors 									|
-|  -------         |---------------------------------------------------------------------------------------| ---------------------------------------------------------		|         
-| 09:00-09:15 	| Opening 										| Workshop Co-Chairs 								|
-| 09:15 - 09:45 | [Detect & Conquer: Template-Based Analysis of Processes using Complex Event Processing](../papers/2024-2.pdf) | Christian Imenkamp, Samira Akili, Matthias Weidlich and Agnes Koschmider 	|
-| 09:45 - 10:15 | [Task-Free Continual Learning with Dynamic Loss for Online Next Activity Prediction](../papers/2024-1.pdf)	| Tamara Verbeek, Ruozhu Yao and Marwan Hassani 				|
-| 10:15 - 10:30 | Open discussions & Closing | All SMA4PM participants
-| 10:30 | Coffee Break|
--->
-(to be added)
+Location: TBA
+
+| Time | Title | Authors |
+|--|--| --|
+| | **Session 1** |
+| TBA <td colspan=2> Opening & Welcome | |
+| TBA | [Know Your Streams: On the Conceptualization, Characterization, and Generation of Intentional Event Streams](#) | Andrea Maldonado, Christian Imenkamp, Hendrik Reiter, Thomas Seidl, Wilhelm Hasselbring, Martin Werner and Agnes Koschmider	|
+| TBA | *Poster paper:* [AVOCADO: The Streaming Process Mining Challenge](#) (lightning talk)	| Christian Imenkamp, Andrea Maldonado, Hendrik Reiter, Martin Werner, Willhelm Hasselbring, Agnes Koschmider and Andrea Burattin |
+| TBA <td colspan=2> *Discussion #1:* Conceptual Models & Challenges for Streaming Process Mining ||
+| TBA <td colspan=2> Coffee Break (incl. poster session) |
+| | **Session 2** |
+| TBA | [Push your objects into streams! Streaming OCPM, Take 1](#) | Jeppe M. Mikkelsen, Andrey Rivkin and Andrea Burattin	|
+| TBA | [Object-Centric Streaming-Based Process Discovery](#) | Lukas Liss, Nina Löseke and Wil van der Aalst |
+| TBA <td colspan=2> *Discussion #2:* Techniques & Benchmarks for Streaming Process Mining |
+| TBA | Closing
+
+
 ### Organizers
 
 * Marwan Hassani, Eindhoven University of Technology, <m.hassani@tue.nl>
