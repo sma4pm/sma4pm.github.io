@@ -114,16 +114,16 @@ Location: TBA
 | Time | Title | Authors |
 |--|--| --|
 | | **Session 1** |
-| TBA <td colspan=2> Opening & Welcome | |
-| TBA | [Know Your Streams: On the Conceptualization, Characterization, and Generation of Intentional Event Streams](#) | Andrea Maldonado, Christian Imenkamp, Hendrik Reiter, Thomas Seidl, Wilhelm Hasselbring, Martin Werner and Agnes Koschmider	|
-| TBA | *Poster paper:* [AVOCADO: The Streaming Process Mining Challenge](#) (lightning talk)	| Christian Imenkamp, Andrea Maldonado, Hendrik Reiter, Martin Werner, Willhelm Hasselbring, Agnes Koschmider and Andrea Burattin |
-| TBA <td colspan=2> *Discussion #1:* Conceptual Models & Challenges for Streaming Process Mining ||
-| TBA <td colspan=2> Coffee Break (incl. poster session) |
+| 14:00 <td colspan=2> Opening & Welcome | |
+| 14:10 | [Know Your Streams: On the Conceptualization, Characterization, and Generation of Intentional Event Streams](#) | Andrea Maldonado, Christian Imenkamp, Hendrik Reiter, Thomas Seidl, Wilhelm Hasselbring, Martin Werner and Agnes Koschmider	|
+| 14:30 | *Poster paper:* [AVOCADO: The Streaming Process Mining Challenge](#) (lightning talk)	| Christian Imenkamp, Andrea Maldonado, Hendrik Reiter, Martin Werner, Willhelm Hasselbring, Agnes Koschmider and Andrea Burattin |
+| 14:40 <td colspan=2> *Discussion #1:* Conceptual Models & Challenges for Streaming Process Mining ||
+| 15:30 <td colspan=2> Coffee Break (incl. poster session) |
 | | **Session 2** |
-| TBA | [Push your objects into streams! Streaming OCPM, Take 1](#) | Jeppe M. Mikkelsen, Andrey Rivkin and Andrea Burattin	|
-| TBA | [Object-Centric Streaming-Based Process Discovery](#) | Lukas Liss, Nina Löseke and Wil van der Aalst |
-| TBA <td colspan=2> *Discussion #2:* Techniques & Benchmarks for Streaming Process Mining |
-| TBA | Closing
+| 16:00 | [Push your objects into streams! Streaming OCPM, Take 1](#) | Jeppe M. Mikkelsen, Andrey Rivkin and Andrea Burattin	|
+| 16:20 | [Object-Centric Streaming-Based Process Discovery](#) | Lukas Liss, Nina Löseke and Wil van der Aalst |
+| 16:40 <td colspan=2> *Discussion #2:* Techniques & Benchmarks for Streaming Process Mining |
+| 17:10 | Closing
 
 
 ### Organizers
