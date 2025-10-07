@@ -2,11 +2,11 @@
 
 <div style="background: url(cover.jpg) center center / cover no-repeat; border-radius: 10px; width: 980px; height: 493px; padding: 15px; position: relative;">
 	<div style="color: white;">
-		<p style="font-size: 1.3em; margin: 0; text-align: right;">5th Intl. Workshop on Stream Management & Analytics for Process Mining (SMA4PM'25)</p>
+		<p style="font-size: 1.3em; margin: 0; text-align: right;">Stream Management & Analytics for Process Mining</p>
 		<p style="font-size: 0.9em; margin: 0; text-align: right;">To be held in conjunction with ICPM 2025. October 20, 2025 - Montevideo, Uruguay</p>
 	</div>
 	<div style="position: absolute; bottom: 15px; right: 15px; color: white; font-size: .6em;">
-		ElOjoTorpe via gettyimages
+		Image from https://planmyweekend.ai/10-inspiring-year-round-experiences-and-things-to-do-in-montevideo-uruguay/
 	</div>
 	<img src="../media/logo.svg" style="position: absolute; bottom: 15px;" />
 </div>
@@ -109,7 +109,7 @@ The proceedings of the main track will be published together with the other ICPM
 ## Organization
 ### Program (tentative)
 
-Location: TBA
+Location: [Room B21 - Annex Building 2nd floor](https://icpmconference.org/2025/venue-fing-udelar/#rooms-map)
 
 | Time | Title | Authors |
 |--|--| --|
