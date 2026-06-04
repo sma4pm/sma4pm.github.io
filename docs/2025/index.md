@@ -11,6 +11,10 @@
 	<img src="../media/logo.svg" style="position: absolute; bottom: 15px;" />
 </div>
 
+!!! info "Outcome of the workshop"
+
+    Alongside the scientific papers, during the workshop we had two discussion sessions. The minutes have been summarized in a shared document which is available at [https://doi.org/10.5281/zenodo.20537926](https://doi.org/10.5281/zenodo.20537926)._
+
 
 ## Scope
 
@@ -114,14 +118,14 @@ Location: [Room B21 - Annex Building 2nd floor](https://icpmconference.org/2025/
 | Time | Title | Authors |
 |--|--| --|
 | | **Session 1** |
-| 14:00 <td colspan=2> Opening & Welcome | |
-| 14:10 | [Know Your Streams: On the Conceptualization, Characterization, and Generation of Intentional Event Streams](#) | Andrea Maldonado, Christian Imenkamp, Hendrik Reiter, Thomas Seidl, Wilhelm Hasselbring, Martin Werner and Agnes Koschmider	|
-| 14:30 | *Poster paper:* [AVOCADO: The Streaming Process Mining Challenge](#) (lightning talk)	| Christian Imenkamp, Andrea Maldonado, Hendrik Reiter, Martin Werner, Willhelm Hasselbring, Agnes Koschmider and Andrea Burattin |
+| 14:00 <td colspan="2"> Opening & Welcome
+| 14:10 | [Know Your Streams: On the Conceptualization, Characterization, and Generation of Intentional Event Streams](../papers/2025-1.pdf) | Andrea Maldonado, Christian Imenkamp, Hendrik Reiter, Thomas Seidl, Wilhelm Hasselbring, Martin Werner and Agnes Koschmider	|
+| 14:30 | *Poster paper:* AVOCADO: The Streaming Process Mining Challenge (lightning talk)	| Christian Imenkamp, Andrea Maldonado, Hendrik Reiter, Martin Werner, Willhelm Hasselbring, Agnes Koschmider and Andrea Burattin |
 | 14:40 <td colspan=2> *Discussion #1:* Conceptual Models & Challenges for Streaming Process Mining ||
 | 15:30 <td colspan=2> Coffee Break (incl. poster session) |
 | | **Session 2** |
-| 16:00 | [Push your objects into streams! Streaming OCPM, Take 1](#) | Jeppe M. Mikkelsen, Andrey Rivkin and Andrea Burattin	|
-| 16:20 | [Object-Centric Streaming-Based Process Discovery](#) | Lukas Liss, Nina Löseke and Wil van der Aalst |
+| 16:00 | [Push your objects into streams! Streaming OCPM, Take 1](../papers/2025-2.pdf) | Jeppe M. Mikkelsen, Andrey Rivkin and Andrea Burattin	|
+| 16:20 | [Object-Centric Streaming-Based Process Discovery](../papers/2025-3.pdf) | Lukas Liss, Nina Löseke and Wil van der Aalst |
 | 16:40 <td colspan=2> *Discussion #2:* Techniques & Benchmarks for Streaming Process Mining |
 | 17:10 | Closing
 

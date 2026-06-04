@@ -1,5 +1,11 @@
 # All papers published in the workshop series
 
+## 2025
+* [Know Your Streams: On the Conceptualization, Characterization, and Generation of Intentional Event Streams](../papers/2025-1.pdf) by Andrea Maldonado, Christian Imenkamp, Hendrik Reiter, Thomas Seidl, Wilhelm Hasselbring, Martin Werner and Agnes Koschmider
+* [Push your objects into streams! Streaming OCPM, Take 1](../papers/2025-2.pdf) by Jeppe M. Mikkelsen, Andrey Rivkin and Andrea Burattin
+* [Object-Centric Streaming-Based Process Discovery](../papers/2025-3.pdf) by Lukas Liss, Nina Löseke and Wil van der Aalst
+
+
 ## 2024
 * [Detect & Conquer: Template-Based Analysis of Processes using Complex Event Processing](../papers/2024-2.pdf) by Christian Imenkamp, Samira Akili, Matthias Weidlich and Agnes Koschmider
 * [Task-Free Continual Learning with Dynamic Loss for Online Next Activity Prediction](../papers/2024-2.pdf) by Tamara Verbeek, Ruozhu Yao and Marwan Hassani
