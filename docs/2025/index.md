@@ -13,7 +13,7 @@
 
 !!! info "Outcome of the workshop"
 
-    Alongside the scientific papers, during the workshop we had two discussion sessions. The minutes have been summarized in a shared document which is available at [https://doi.org/10.5281/zenodo.20537926](https://doi.org/10.5281/zenodo.20537926)._
+    Alongside the scientific papers, during the workshop we had two discussion sessions. The minutes have been summarized in a shared document which is available at [https://doi.org/10.5281/zenodo.20537926](https://doi.org/10.5281/zenodo.20537926).
 
 
 ## Scope
