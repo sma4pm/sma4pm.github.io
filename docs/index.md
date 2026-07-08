@@ -16,10 +16,11 @@ The workshop is a satellite event of the IEEE Task Force on Process Mining.
 
 <img src="media/tfpm.png" style="width: 150px" />
 
-The next edition of the [SMA4PM 2025](/2025) will take place in Montevideo, Uruguay together with [ICPM 2025](https://icpmconference.org/2025/).
+The next edition of the [SMA4PM 2027](/2027) will take place in Rende, Italy together with [ICPM 2027](https://icpmconference.org/2027/).
 
 ## Previous editions
 
+* [SMA4PM 2025](/2025) - Montevideo, Uruguay
 * [SMA4PM 2024](/2024) - Copenhagen, Denmark
 * [SA4PM 2022](/2022) - Bolzano, Italy
 * [SA4PM 2021](/2021) - Eindhoven, The Netherlands

@@ -1,5 +1,5 @@
 Previous editions of the workshop:
-
+* [SMA4PM 2025](/2025) - Montevideo, Uruguay
 * [SMA4PM 2024](/2024) - Copenhagen, Denmark
 * [SA4PM 2022](/2022) - Bolzano, Italy
 * [SA4PM 2021](/2021) - Eindhoven, The Netherlands
