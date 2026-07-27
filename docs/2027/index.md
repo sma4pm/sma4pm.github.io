@@ -1,4 +1,4 @@
-# Stream Management & Analytics for Process Mining - 2025
+# Stream Management & Analytics for Process Mining - 2027
 
 <div style="background: url(cover.jpg) center center / cover no-repeat; border-radius: 10px; width: 980px; height: 493px; padding: 15px; position: relative;">
 	<div style="color: white;">
