@@ -69,8 +69,8 @@ The workshop is a satellite event of the IEEE Task Force on Process Mining.
 
 ### Important dates
 
-* Author Abstract Submission: ~November 11, 2026~ November 15, 2026
-* Author Paper Submission: ~November 18, 2026~ November 22, 2026
+* Author Abstract Submission: ~~November 11, 2026~~ November 15, 2026
+* Author Paper Submission: ~~November 18, 2026~~ November 22, 2026
 * Author Paper Acceptance Notification: December 21, 2026
 * Author Pre-workshop Camera-Ready Papers: January 21, 2027
 * Workshops: February 8, 2027
@@ -109,7 +109,7 @@ The proceedings of the main track will be published together with the other ICPM
 
 ### Organizers
 
-* Marwan Hassani, Eindhoven University of Technology, <m.hassani@tue.nl>
+* Marwan Hassani, University of Wuppertal <hassani@uni-wuppertal.de>
 * Thomas Seidl, Ludwig-Maximilians-Universität München, <seidl@dbs.ifi.lmu.de>
 * Andrea Burattin, Technical University of Denmark, <andbur@dtu.dk>
 * Ahmed Awad, The British University in Dubai, <ahmed.awad@buid.ac.ae>
