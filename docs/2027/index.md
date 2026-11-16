@@ -123,9 +123,8 @@ The proceedings of the main track will be published together with the other ICPM
 * Boudewijn van Dongen, Eindhoven University of Technology, The Netherlands
 * Eric Verbeek, Eindhoven University of Technology, The Netherlands
 * Francesco Folino, ICAR -CNR, Italy
-* Frederic Stahl, German Research Center for Artificial Intelligence (DFKI), Germany
+* Iman M. A. Helal, Cairo University, Egypt
 * Jochen De Weerdt, KU Leuven, Belgium
 * Matthias Weidlich, Humboldt-Universität zu Berlin, Germany
 * Marco Comuzzi, UNIST, Korea
-* Toon Calders, University of Antwerp, Belgium
 * Sylvio Barbon Jr., Università degli Studi di Trieste, Italy
