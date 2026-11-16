@@ -96,7 +96,7 @@ Submitters are required to indicate if their data and implementation is publicly
 
 ### Submission link
 
-Papers and abstracts should be submitted through EasyChair link (TBA) in PDF format.
+Papers and abstracts should be submitted through EasyChair link (https://easychair.org/conferences/?conf=icpm2027) in PDF format.
 
 By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. Please visit the [main conference website](https://icpmconference.org/2027/) for more information. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
